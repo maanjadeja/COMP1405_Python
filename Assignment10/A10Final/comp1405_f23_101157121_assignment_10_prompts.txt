@@ -1,0 +1,10 @@
+1)Give me a list of 10 rooms in castle using square brackets and commas for seperator
+2)Add 10 more rooms to the list above 
+3)For each of the 20 rooms listed above give me a list of 10 objects I would find in each room
+4)What was the last object in Solar (a private sitting room)
+5)Give me 10 objects for the Torture Chamber
+6)Give me a short description of each of the  20 rooms
+7)Give me a short description of the 10 objects present in each room
+8)Give me a short description of all the objects in the tower room
+9)Give me a short description of all the objects in each room starting from the kitchen
+10)Give me a short description of all the objects in each room starting from the ballroom

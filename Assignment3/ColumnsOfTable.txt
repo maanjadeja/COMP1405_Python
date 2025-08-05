@@ -1,0 +1,6 @@
+# of petal
+shape of petal
+colour of petal
+shape of center
+colour of center
+colour of sepal

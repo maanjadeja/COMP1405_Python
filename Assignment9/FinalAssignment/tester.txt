@@ -1,0 +1,4 @@
+Master Bedroom-Television,King Size Bed,Blue Coffee Table,Sofa
+Baby Bedroom-Rocker,Toys,Red Carpet,Pictures
+Theater Room-Projector,Blue Sofa,Bar,Snack Cupboard
+Closet Room-Marble Platform,Sliding Cupboard,Mirror,Black Safe
