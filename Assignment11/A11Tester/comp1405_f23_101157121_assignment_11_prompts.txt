@@ -1,0 +1,2 @@
+1.How should I program a function that allows me to move around this castle using adjacency list in python
+
